@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Seth's Page!
 
-You can use the [editor on GitHub](https://github.com/sethf5693/TextAdventure-Seth-Nelson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Mr. Stern can find the download to our TextAdventure Project classes [here](https://github.com/sethf5693/TextAdventure-Seth-Nelson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mastery Skills
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are all the Mastery Skills for CS Capstone
 
 ```markdown
-Syntax highlighted code block
+# Mastery Skill 1a - I can create test cases
+Professional - _I can generate an exhaustive set of test cases (including edge cases) when given a complex method's purpose and header. I can justify why those test cases are exhaustive using logical reasoning. The complex method's purpose and header 1) are not similar to those previously discussed in class and 2) may involve data types I have never seen before._
 
-# Header 1
-## Header 2
-### Header 3
+Practitioner - _I can generate many accurate test cases and at least one edge case when given a method's purpose and header. The given method's purpose and header 1) are somewhat similar to those discussed in class and 2) involve data types similar to those discussed in class._
 
-- Bulleted
-- List
+Apprentice - _I can generate some accurate test cases when given a simple method's purpose and header. The simple method's purpose and header 1) are very similar to those previously discussed in class, 2) involve data types previously discussed in class, and 3) have few parameters._
 
-1. Numbered
-2. List
+Novice - _I can generate few accurate test cases when given a simple method's purpose and header. The simple method's purpose and header 1) are almost identical to those previously discussed in class, 2) involve types previously discussed in class, and 3) have few parameters._
 
-**Bold** and _Italic_ and `Code` text
+# Mastery Skill 1b - I can interpret test cases.
+Professional - _I can generate an accurate method header when given a small, complex set of test cases. The small, complex set of test cases 1) may involve data types I have never seen before and 2) have many parameters. The names of the header's parameters are all descriptive._
 
-[Link](url) and ![Image](src)
+Practitioner - _I can generate an accurate method header when given a set of test cases. The set of test cases 1) involve data types similar to those discussed in class and 2) have multiple parameters. The names of header's parameters are mostly descriptive._
+
+Apprentice - _I can generate an accurate method header given a large set of test cases. The set of test cases 1) involve data types previously discussed in class and 2) have few parameters. The names of the header's parameters are somewhat descriptive._
+
+Novice - _I generate inaccurate method headers when given a set of test cases. The set of test cases 1) involve data types previously discussed in class and 2) have few parameters._
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sethf5693/TextAdventure-Seth-Nelson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For more details see [The Computer Science Capstone Website](https://sites.google.com/a/afsenyc.org/cs-portfolio-16-17/?).
